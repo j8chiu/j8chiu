@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiacheng Qiu (Chiu)</h1>
 <h3 align="center">A passionate Data Science student at HDSI, UC San Diego</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j8qiu" alt="j8qiu" /></a> </p>
-
 - 🔭 I’m currently working on Computer Vision [Event-Camera Based Vision](private for now)
 
 - 👨‍💻 All of my projects are available at [https://github.com/j8chiu](https://github.com/j8chiu)
