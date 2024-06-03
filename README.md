@@ -34,6 +34,7 @@
 </p>
 
 
+
 <p style="font-size: large;">
 <b> - Databases</b>
 
@@ -43,6 +44,7 @@
 <b>MongoDB:</b> Experienced in NoSQL databases for handling large-scale, unstructured data.
 
 <b>Neo4j:</b> Skilled in graph databases, enhancing data relationships and pattern recognition for complex queries and analytics.
+
 
 
 <p style="font-size: large;">
