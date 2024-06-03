@@ -28,7 +28,6 @@
 
 - Programming Languages
 
-
 <p style="font-size: small;">
 <b>Python:</b> Extensive experience for data science, ML, and DL applications, including libraries like Numpy, Pandas, Matplotlib, and frameworks such as PyTorch and TensorFlow.<br>
 <b>HTML:</b> Proficient in web development, creating user-friendly interfaces and integrating with backend services.
@@ -36,26 +35,26 @@
 
 
 
-
 - Databases
+- 
+<p style="font-size: small;">
+<b>MySQL & PostgreSQL:</b> Strong foundation in relational database management systems, optimizing data structure and ensuring data integrity.
 
-MySQL & PostgreSQL: Strong foundation in relational database management systems, optimizing data structure and ensuring data integrity.
+<b>MongoDB:</b> Experienced in NoSQL databases for handling large-scale, unstructured data.
 
-MongoDB: Experienced in NoSQL databases for handling large-scale, unstructured data.
-
-Neo4j: Skilled in graph databases, enhancing data relationships and pattern recognition for complex queries and analytics.
+<b>Neo4j:</b> Skilled in graph databases, enhancing data relationships and pattern recognition for complex queries and analytics.
 
 
 
 - ML / DL / Big Data
 
-Machine Learning Algorithms: Expertise in K-Nearest Neighbors (KNN), Decision Trees, SVM, and ensemble methods for predictive modeling and classification/clustering tasks.
+<b>Machine Learning Algorithms:</b> Expertise in K-Nearest Neighbors (KNN), Decision Trees, SVM, and ensemble methods for predictive modeling and classification/clustering tasks.
 
-Deep Learning: Proficient in GNNs, CNNs, RNNs, and GANs, applying them to computer vision, NLP, and generative tasks.
+<b>Deep Learning:</b> Proficient in GNNs, CNNs, RNNs, and GANs, applying them to computer vision, NLP, and generative tasks.
 
-Topological Data Analysis: Skilled in topological deep learning, utilizing libraries and frameworks to integrate topological features into deep learning models for enhanced predictive capabilities.
+<b>Topological Data Analysis:</b> Skilled in topological deep learning, utilizing libraries and frameworks to integrate topological features into deep learning models for enhanced predictive capabilities.
 
-Data Processing & Analysis: Experienced with big data frameworks like Apache Spark for real-time data processing and analytics, and Apache Hive for querying and managing large datasets.
+<b>Data Processing & Analysis:</b> Experienced with big data frameworks like Apache Spark for real-time data processing and analytics, and Apache Hive for querying and managing large datasets.
 
 
 
