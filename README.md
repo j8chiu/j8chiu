@@ -25,8 +25,8 @@
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
-
-- Programming Languages
+<p style="font-size: large;">
+<b> - Programming Languages</b>
 
 <p style="font-size: small;">
 <b>Python:</b> Extensive experience for data science, ML, and DL applications, including libraries like Numpy, Pandas, Matplotlib, and frameworks such as PyTorch and TensorFlow.<br>
@@ -34,8 +34,8 @@
 </p>
 
 
-
-- Databases
+<p style="font-size: large;">
+<b> - Databases</b>
 
 <p style="font-size: small;">
 <b>MySQL & PostgreSQL:</b> Strong foundation in relational database management systems, optimizing data structure and ensuring data integrity.
@@ -45,8 +45,8 @@
 <b>Neo4j:</b> Skilled in graph databases, enhancing data relationships and pattern recognition for complex queries and analytics.
 
 
-
-- ML / DL / Big Data
+<p style="font-size: large;">
+<b> - ML / DL / Big Data</b>
 
 <b>Machine Learning Algorithms:</b> Expertise in K-Nearest Neighbors (KNN), Decision Trees, SVM, and ensemble methods for predictive modeling and classification/clustering tasks.
 
