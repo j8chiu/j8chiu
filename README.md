@@ -5,7 +5,7 @@
 
 - 🌱 I specialize in data science, machine learning, and deep learning, with a passion for applying these disciplines to solve complex problems and extract meaningful insights from data.
 
-- 📊 I've led and contributed to several impactful projects, including event camera data based Continuous Human Pose Estimation and Integrated Game Recommendation system utilizing PostgreSQL, MongoDB, and Neo4j within a Docker environment for efficient management of complex data and user profiles.
+- 📊 I've led and contributed to several impactful projects, including event camera data based Continuous Human Pose Estimation and Integrated Game Recommendation System utilizing modern databases within a Docker environment for efficient management of complex data and user profiles.
 
 - 🛠 My technical skill set includes:
   Advanced Programming Languages: Python (with a focus on data science and ML/DL libraries), HTML for web development, and software engineering.
