@@ -36,7 +36,7 @@
 
 
 - Databases
-- 
+
 <p style="font-size: small;">
 <b>MySQL & PostgreSQL:</b> Strong foundation in relational database management systems, optimizing data structure and ensuring data integrity.
 
