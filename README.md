@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiacheng Qiu (Chiu)</h1>
 <h3 align="center">I'm a Master of Data Science student at UC San Diego, Halıcıoğlu Data Science Institute</h3>
 
-- 🔭 I’m currently working on Computer Vision [Event-Camera Based Vision (or Dynamic Vision Sensor, DVS)], utilizing technologies such as Pytorch, Pytorch Lightning, and Kubernetes (K8S)(private for now)
+- 🔭 I’m currently working on Computer Vision [Event-Camera Based Vision (or Dynamic Vision Sensor, DVS)], utilizing technologies such as Pytorch, Pytorch Lightning, and Kubernetes (K8S)(private for now).
 
 - 🌱 I specialize in data science, machine learning, and deep learning, with a passion for applying these disciplines to solve complex problems and extract meaningful insights from data.
 
@@ -16,11 +16,11 @@
 
   Database Management: Skilled in SQL databases with practical experience in MySQL, MongoDB, and Neo4j, enabling efficient data storage, manipulation, and complex query execution.
 
-- 👨‍💻 All of my projects are available at [https://github.com/j8chiu](https://github.com/j8chiu)
+- 👨‍💻 All of my projects are available at [https://github.com/j8chiu](https://github.com/j8chiu).
 
-- 📫 Reach out to CHIU @ **j8qiu@ucsd.edu**
+- 📫 Reach out to CHIU @ **j8qiu@ucsd.edu**.
 
-- ⚡ Fun fact **I've got a Ph.D. in Dota 2—Piled Higher and Deeper in hero builds and last-minute saves!**
+- ⚡ Fun fact **I've got a Ph.D. in Dota 2—Piled Higher and Deeper in hero builds and last-minute saves!**.
 
 
 <h3 align="left">🧰 Languages and Tools:</h3>
