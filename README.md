@@ -25,11 +25,13 @@
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
+
 - Programming Languages
 
 Python: Extensive experience for data science, ML, and DL applications, including libraries like Numpy, Pandas, Matplotlib, and frameworks such as PyTorch and TensorFlow.
 
 HTML: Proficient in web development, creating user-friendly interfaces and integrating with backend services.
+
 
 
 - Databases
@@ -41,6 +43,7 @@ MongoDB: Experienced in NoSQL databases for handling large-scale, unstructured d
 Neo4j: Skilled in graph databases, enhancing data relationships and pattern recognition for complex queries and analytics.
 
 
+
 - ML / DL / Big Data
 
 Machine Learning Algorithms: Expertise in K-Nearest Neighbors (KNN), Decision Trees, SVM, and ensemble methods for predictive modeling and classification/clustering tasks.
@@ -50,6 +53,7 @@ Deep Learning: Proficient in GNNs, CNNs, RNNs, and GANs, applying them to comput
 Topological Data Analysis: Skilled in topological deep learning, utilizing libraries and frameworks to integrate topological features into deep learning models for enhanced predictive capabilities.
 
 Data Processing & Analysis: Experienced with big data frameworks like Apache Spark for real-time data processing and analytics, and Apache Hive for querying and managing large datasets.
+
 
 
 <h3 align="left">Connect with me:</h3>
