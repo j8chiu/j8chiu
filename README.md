@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiacheng Qiu (Chiu)</h1>
-<h3 align="center">I'm a Master of Data Science student at the University of California San Diego, Halıcıoğlu Data Science Institute</h3>
+<h3 align="center">I'm a Master of Data Science student at UC San Diego, Halıcıoğlu Data Science Institute</h3>
 
 - 🔭 I’m currently working on Computer Vision [Event-Camera Based Vision (or Dynamic Vision Sensor, DVS)], utilizing technologies such as Pytorch, Pytorch Lightning, and Kubernetes (K8S)(private for now)
 
@@ -28,9 +28,12 @@
 
 - Programming Languages
 
-Python: Extensive experience for data science, ML, and DL applications, including libraries like Numpy, Pandas, Matplotlib, and frameworks such as PyTorch and TensorFlow.
 
-HTML: Proficient in web development, creating user-friendly interfaces and integrating with backend services.
+<p style="font-size: small;">
+<b>Python:</b> Extensive experience for data science, ML, and DL applications, including libraries like Numpy, Pandas, Matplotlib, and frameworks such as PyTorch and TensorFlow.<br>
+<b>HTML:</b> Proficient in web development, creating user-friendly interfaces and integrating with backend services.
+</p>
+
 
 
 
