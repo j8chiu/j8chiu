@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiacheng Qiu (Chiu)</h1>
 <h3 align="center">I'm a Master of Data Science student at UC San Diego, Halıcıoğlu Data Science Institute</h3>
 
-For most up-to-date news, please visit my website: https://j8chiu.github.io
+For most up-to-date news, please visit my website: https://jiacheng-CHIU.github.io
 
 - 🔭 I’m currently working on Computer Vision [Event-Camera Based Vision (or Dynamic Vision Sensor, DVS)], utilizing technologies such as Pytorch, Pytorch Lightning, and Kubernetes (K8S)(private for now).
 
