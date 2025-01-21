@@ -22,8 +22,6 @@ For most up-to-date news, please visit my website: https://j8chiu.github.io
 
 - 📫 Reach out to CHIU @ **j8qiu@ucsd.edu**.
 
-- ⚡ Fun fact **I've got a Ph.D. in Dota 2—Piled Higher and Deeper in hero builds and last-minute saves!**.
-
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
