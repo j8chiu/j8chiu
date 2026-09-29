@@ -13,14 +13,6 @@ Find out more about me on my [website](https://j8chiu.github.io/).
 - 🛠 I use machine learning, computer vision, and data science to develop and evaluate AI systems.
 - 📫 Reach me at **[jiacheng.qiu.1@stonybrook.edu](mailto:jiacheng.qiu.1@stonybrook.edu)**.
 
-<h3>🧰 Languages and Tools</h3>
-
-- **Programming:** Python, SQL, Bash, HTML
-- **Machine Learning & Computer Vision:** PyTorch, PyTorch Lightning, TensorFlow, scikit-learn, OpenCV
-- **Data & Visualization:** NumPy, pandas, Matplotlib, Seaborn, Apache Spark, Hadoop, Hive
-- **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j
-- **Development & Infrastructure:** Git, Linux, Docker, Kubernetes
-
 <h3>Connect with Me</h3>
 
 [Website](https://j8chiu.github.io/) · [GitHub](https://github.com/j8chiu) · [LinkedIn](https://www.linkedin.com/in/jiacheng-qiu-17361b1a0/) · [Email](mailto:jiacheng.qiu.1@stonybrook.edu)
